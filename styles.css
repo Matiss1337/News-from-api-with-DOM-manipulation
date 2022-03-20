@@ -1,0 +1,10 @@
+#backButtom:hover {
+  transform: scale(1.1);
+}
+#nextButtom:hover {
+  transform: scale(1.1);
+}
+
+#loopButtom:hover {
+  transform: scale(1.1);
+}
